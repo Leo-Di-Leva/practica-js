@@ -4,4 +4,6 @@ let test = "hola numero 9"
 
 console.log("hola");
 
+console.log("hola pepe", test)
+
 
